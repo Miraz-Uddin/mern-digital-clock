@@ -1,6 +1,6 @@
 ## MERN DIGITAL CLOCK
 
-Live link: will be added later
+Live link: https://642dc1599fb4770f767a2a13--stellular-dasik-15808e.netlify.app
 
 ### Project Approach
 

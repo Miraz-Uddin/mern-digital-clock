@@ -18,7 +18,6 @@
     s = s < 10 ? "0" + s : s;
     const time = `${h}:${m}:${s} ${session}`;
     document.getElementById("clock").innerText = time;
-    document.getElementById("clock").textContent = time;
   }
   showCurrentTime();
 
